@@ -6,8 +6,8 @@ __pycache__/
 # C extensions
 *.so
 
-# Geospatial & Mapping data
-data/
+# Geospatial & Mapping data (large downloads live under data/raw/; config stays at repo root of data/)
+data/raw/
 *.shp
 *.shx
 *.dbf
