@@ -6,6 +6,21 @@ __pycache__/
 # C extensions
 *.so
 
+# Geospatial & Mapping data
+data/
+*.shp
+*.shx
+*.dbf
+*.prj
+*.gpkg
+*.geojson
+*.tif
+*.tiff
+*.dem
+
+# VSCode
+.vscode/
+
 # Distribution / packaging
 .Python
 build/
