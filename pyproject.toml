@@ -1,0 +1,6 @@
+# Pyright/Pylance read this so imports (e.g. pyproj) resolve against the project venv
+# without relying only on the editor picking the interpreter by hand.
+[tool.pyright]
+venvPath = "."
+venv = "venv"
+pythonVersion = "3.14"
