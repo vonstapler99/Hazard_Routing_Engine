@@ -8,6 +8,7 @@ __pycache__/
 
 # Geospatial & Mapping data (large downloads live under data/raw/; config stays at repo root of data/)
 data/raw/
+cache/
 *.shp
 *.shx
 *.dbf
