@@ -42,7 +42,7 @@ def main() -> None:
         figsize=(10, 10),
         show=False,
     )
-    plt.title("Study area: drivable OSM network (nodes + edges)")
+    plt.title("Study area: drivable OSM network [Kerrville, TX] (nodes + edges)")
     plt.tight_layout()
     plt.show()
 
